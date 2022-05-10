@@ -1,0 +1,14 @@
+1649737111038	Rename package 'com.training.accounts.controller'
+1649737150833	Rename package 'com.training.accounts.model'
+1649737161580	Rename package 'com.training.accounts.repo'
+1649737176953	Rename type 'AccountsRepository'
+1649737190444	Rename type 'AccountsModel'
+1649737206519	Rename type 'AccountsController'
+1649737951605	Move file
+1649738121188	Copy packages
+1649741682505	Delete element
+1649765883147	Delete element
+1649817412087	Rename type 'CardsServiceConfig'
+1649817821422	Rename type 'Properties'
+1649838087645	Copy compilation unit
+1649838398057	Rename type 'Loans'

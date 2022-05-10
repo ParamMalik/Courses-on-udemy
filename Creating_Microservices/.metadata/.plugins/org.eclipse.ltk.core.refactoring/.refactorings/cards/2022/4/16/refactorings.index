@@ -1,0 +1,10 @@
+1649738137357	Rename package 'com.training.loans.controller'
+1649738148798	Rename package 'com.training.loans.model'
+1649738160428	Rename package 'com.training.loans.repo'
+1649738174128	Rename type 'LoansController'
+1649738190335	Rename type 'LoansModel'
+1649738208918	Rename type 'LoansRepository'
+1649741199248	Delete element
+1649766921963	Delete element
+1649779582251	Rename type 'CardsPropertiesConfig'
+1649838037237	Copy compilation unit
